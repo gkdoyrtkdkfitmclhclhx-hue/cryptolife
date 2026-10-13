@@ -85,6 +85,7 @@ API officielle : https://docs.cdp.coinbase.com/api-reference/exchange-api/rest-a
 
 ## Contribuer
 
-Voir CONTRIBUTING.md. Le projet peut être publié sur GitHub, mais n'y est pas
-encore publié. Cette version ne revendique aucune éligibilité à un programme
-open source ni aucun contributeur externe.
+Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour proposer une amélioration ou une
+correction. Le dépôt public est disponible sur GitHub :
+https://github.com/elmarti0/cryptolife. Cette version ne revendique aucune
+éligibilité à un programme open source.
