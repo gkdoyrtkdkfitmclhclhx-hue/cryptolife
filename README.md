@@ -5,7 +5,7 @@ Python 3.10 ou plus; aucune dépendance à installer.
 
 ## Ce qui existe
 
-- Portefeuille fictif BTC/USD persistant avec journal de décisions.
+- Portefeuilles fictif BTC/USD persistant avec journal de décisions.
 - Lecture de prix publics Coinbase; aucune clé API ni connexion à un compte.
 - Stratégie explicite de moyennes mobiles 7/30 échantillons. Ce prototype
   n'est pas un modèle d'IA entraîné et ne garantit aucun bénéfice.
